@@ -1,4 +1,4 @@
-package ma.oth.designpatterns.structural.observer;
+package ma.oth.designpatterns.behavioral.observer;
 
 import java.util.ArrayList;
 import java.util.List;

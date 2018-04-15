@@ -1,4 +1,4 @@
-package ma.oth.designpatterns.structural.observer;
+package ma.oth.designpatterns.behavioral.observer;
 
 public class Client extends Observer {
 

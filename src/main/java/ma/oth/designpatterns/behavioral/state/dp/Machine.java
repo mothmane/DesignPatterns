@@ -1,6 +1,6 @@
-package ma.oth.designpatterns.structural.state.dp;
+package ma.oth.designpatterns.behavioral.state.dp;
 
-import ma.oth.designpatterns.structural.state.dp.State;
+import ma.oth.designpatterns.behavioral.state.dp.State;
 
 public class Machine {
 	

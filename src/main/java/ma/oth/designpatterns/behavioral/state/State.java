@@ -1,4 +1,4 @@
-package ma.oth.designpatterns.structural.state;
+package ma.oth.designpatterns.behavioral.state;
 
 public enum State {
 	

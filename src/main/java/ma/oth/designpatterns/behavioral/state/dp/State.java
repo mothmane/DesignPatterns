@@ -1,4 +1,4 @@
-package ma.oth.designpatterns.structural.state.dp;
+package ma.oth.designpatterns.behavioral.state.dp;
 
 public interface State {
 	
