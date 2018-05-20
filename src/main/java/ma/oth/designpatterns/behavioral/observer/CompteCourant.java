@@ -1,6 +1,6 @@
 package ma.oth.designpatterns.behavioral.observer;
 
-public class CompteCourant  extends Compte{
+public class CompteCourant extends Compte{
 	
 	private double credit=100;
 	

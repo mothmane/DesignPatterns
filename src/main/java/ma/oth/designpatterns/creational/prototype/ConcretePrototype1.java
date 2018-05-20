@@ -1,5 +1,10 @@
-package ma.oth.designpatterns.creational.proptype;
+package ma.oth.designpatterns.creational.prototype;
 
+/**
+ * 
+ * @author othmane
+ *
+ */
 public class ConcretePrototype1  extends Prototype{
 	
 	private String name;
@@ -30,13 +35,6 @@ public class ConcretePrototype1  extends Prototype{
 		return "ConcretePrototype1 [name=" + name + "]";
 	}
 
-	@Override
-	public int hashCode() {
-		final int prime = 31;
-		int result = 1;
-		result = prime * result + ((name == null) ? 0 : name.hashCode());
-		return result;
-	}
 
 	@Override
 	public boolean equals(Object obj) {

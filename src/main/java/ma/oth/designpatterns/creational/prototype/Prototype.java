@@ -1,5 +1,10 @@
-package ma.oth.designpatterns.creational.proptype;
+package ma.oth.designpatterns.creational.prototype;
 
+/**
+ * 
+ * @author othmane
+ *
+ */
 public class Prototype implements Cloneable{
 
 	public Prototype clone() {

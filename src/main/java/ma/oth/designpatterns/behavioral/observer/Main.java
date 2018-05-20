@@ -9,6 +9,7 @@ public class Main {
 	}
 	
 	public void exp01() {
+		
 		CompteCourant cc= new CompteCourant();
 		Observer o1= new Client();
 		Observer o2= new BankOperator();

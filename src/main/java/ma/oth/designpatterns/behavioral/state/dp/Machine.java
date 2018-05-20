@@ -16,7 +16,7 @@ public class Machine {
 	
 	
 	
-	public void showMessage() {
+	public void showMessage(String p) {
 		state.showMessage();
 	}
 	

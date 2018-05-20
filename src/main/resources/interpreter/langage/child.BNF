@@ -1,0 +1,16 @@
+
+<statements_list> ::= <statement> | <statements_list>  <statement> 
+
+<statement> 	::= <for_loop> | <move_terminal> | <left_terminal>
+
+<for_loop> 		::= <for_terminal> <number>to<number> <statement>
+
+<to_terminal>   ::= to
+
+<for_terminal>  ::= for
+
+<left_terminal> ::= left
+
+<move_terminal> ::= move
+
+<number>      	::= 0| 1 | 2 | .. | 9
