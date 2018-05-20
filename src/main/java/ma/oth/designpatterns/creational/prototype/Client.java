@@ -1,4 +1,5 @@
 package ma.oth.designpatterns.creational.prototype;
+
 /**
  * 
  * @author othmane

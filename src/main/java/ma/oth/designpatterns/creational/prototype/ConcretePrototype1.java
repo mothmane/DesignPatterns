@@ -12,9 +12,6 @@ public class ConcretePrototype1  extends Prototype{
 
 	public ConcretePrototype1() {
 		super();
-		for (int i = 0; i < 100; i++) {
-			System.out.println("traitement "+i);
-		}
 	}
 
 	public ConcretePrototype1(String name) {
